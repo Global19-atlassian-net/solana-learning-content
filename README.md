@@ -20,13 +20,9 @@ Wormhole is a bidirectional bridge across the ERC20 to SPL token standards. Dapp
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
 
-## Video Production Guidelines
-
-Please submit your videos in a H.264 .mp4 file at or above HD resolution (1920x1080). 
-
 ### More content
 
-Don’t choose between scale, security, and decentralization. Solana has solved the trilemma for you. Check out our tech stack below to learn how we did it:
+Solana has solved the blockchain trilemma. Check out our tech stack below to learn how we did it:
 
 * [Proof of History (PoH)](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274) - A clock before consensus
 * [Tower BFT](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79) - A PoH-optimized version of PBFT
@@ -37,4 +33,7 @@ Don’t choose between scale, security, and decentralization. Solana has solved 
 * [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) - Horizontally scaled accounts database
 * [Archivers](https://medium.com/solana-labs/replicators-solanas-solution-to-petabytes-of-blockchain-data-storage-ef79db053fa1) - Distributed ledger storage
 
+## Video Production Guidelines
+
+Please submit your videos in a H.264 .mp4 file at or above HD resolution (1920x1080). 
 
