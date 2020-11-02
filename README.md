@@ -35,11 +35,21 @@ Solana has solved the blockchain trilemma. Check out our tech stack below to lea
 
 ## Video Production Guidelines
 
+#### Delivery
+
 Please use the following file naming format, as appropriate:
 
 `VideoTitle-Username-Type.mp4`
 e.g., HelloWorld-rmshea-FullVideo.mp4
 
-Video resolution must be at least 1080p (1920 x 1080) or 4K (3840 × 2160). We request a still image that is at least 3840 × 2160 pixels to use as a cover image for the video. Convert assets from the highest quality master possible. Example: If your content was shot or mastered in HD, you should deliver the HD content. But if your content is SD, deliver the SD content. Don't convert SD content to HD, just for the purpose of making it HD.
+#### Video + Captions
+
+Video resolution must be at least 1080p (1920 x 1080) or 4K (3840 × 2160). We request a still image that is at least 3840 × 2160 pixels to use as a cover image for the video. Convert assets from the highest quality master possible. Example: If your content was recorded in HD, you should deliver the HD content. But if your content is HD, deliver the HD content. Don't convert HD content to 4K, just for the purpose of making it 4K.
+
+Please provide your video in the H.264 video codec, or in QuickTime.
 
 You are responsible for providing captions, and we prefer the .srt format. You may use your own tools for adding closed captioning, a paid professional service, or free tools such as the one available through YouTube. The closed captions should identify the speakers each time they speak, and be free from spelling errors. Captions must be delivered in a separate file—embedded subtitles in video will be ignored.
+
+#### Audio
+
+For best audio, connect an external microphone. The internal mic on your device may not be the best quality and may sound tinny and hollow. A higher quality external mic will have a better pickup pattern and range.
