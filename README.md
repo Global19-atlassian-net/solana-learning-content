@@ -35,5 +35,13 @@ Solana has solved the blockchain trilemma. Check out our tech stack below to lea
 
 ## Video Production Guidelines
 
-Please submit your videos in a H.264 .mp4 file at or above HD resolution (1920x1080). 
+Please use the following file naming format, as appropriate:
 
+`VideoTitle_Username.mp4`
+e.g., HelloWorld_rmshea.mp4
+
+Convert assets from the highest quality master possible. Example: If your content was shot or mastered in HD, you should deliver the HD content. But if your content is SD, deliver the SD content. Don't convert SD content to HD, just for the purpose of making it HD.
+
+Captions must be delivered in a separate file—embedded subtitles in video will be ignored.
+
+Please submit your videos in a H.264 .mp4 file at or above HD resolution (1920x1080). 
