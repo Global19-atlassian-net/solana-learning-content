@@ -37,11 +37,11 @@ Solana has solved the blockchain trilemma. Check out our tech stack below to lea
 
 Please use the following file naming format, as appropriate:
 
-`VideoTitle_Username.mp4`
-e.g., HelloWorld_rmshea.mp4
+`VideoTitle-Username-Type.mp4`
+e.g., HelloWorld-rmshea-FullVideo.mp4
 
 Convert assets from the highest quality master possible. Example: If your content was shot or mastered in HD, you should deliver the HD content. But if your content is SD, deliver the SD content. Don't convert SD content to HD, just for the purpose of making it HD.
 
-Captions must be delivered in a separate file—embedded subtitles in video will be ignored.
+Video resolution must be at least 1080p (1920 x 1080) or 4K (3840 × 2160). We request a still image that is at least 3840 × 2160 pixels to use as a cover image for the video.
 
-Please submit your videos in a H.264 .mp4 file at or above HD resolution (1920x1080). 
+You are responsible for providing captions, and we prefer the .srt format. You may use your own tools for adding closed captioning, a paid professional service, or free tools such as the one available through YouTube. The closed captions should identify the speakers each time they speak, and be free from spelling errors. Captions must be delivered in a separate file—embedded subtitles in video will be ignored.
