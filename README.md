@@ -1,6 +1,15 @@
+![Learning Fund](https://github.com/solana-labs/solana-learning-content/blob/main/bg.png?raw=true)
+
 # Solana Community Learning Content
 
 In an attempt to produce meaningful resources to distribute to the Solana community, the Solana Foundation is implementing a community learning fund to commission blog posts, videos, and other learning materials related to building on the Solana network. This repository will be used to organize commissions, host resources relevant to the production of materials, and offer a place to submit content.
+
+## Live Bounties
+
+| Bounty Name           | Category | Amount | Link |
+|-----------------------|----------|--------|------|
+| Hello World           | Video    | $350   | [Go](https://gitcoin.co/issue/solana-labs/solana-learning-content/1/100024043)   |
+| SPL Token walkthrough | Video    | $400   | [Go](https://gitcoin.co/issue/solana-labs/solana-learning-content/2/100024044)   |
 
 ## Introduction
 
@@ -44,7 +53,7 @@ e.g., HelloWorld-rmshea-FullVideo.mp4
 
 #### Video + Captions
 
-Video resolution must be at least 1080p (1920 x 1080) or 4K (3840 × 2160). We request a still image that is at least 3840 × 2160 pixels to use as a cover image for the video. Convert assets from the highest quality master possible. Example: If your content was recorded in HD, you should deliver the HD content. But if your content is HD, deliver the HD content. Don't convert HD content to 4K, just for the purpose of making it 4K.
+Video resolution must be at least 1080p (1920 x 1080) or 4K (3840 × 2160). We request a still image that is at least 3840 × 2160 pixels to use as a cover image for the video. Convert assets from the highest quality master possible. Example: If your content was recorded in HD, you should deliver the HD content. But if your content is 4K, deliver the 4K content. Don't convert HD content to 4K, just for the purpose of making it 4K.
 
 Please provide your video in the H.264 video codec, or in QuickTime.
 
